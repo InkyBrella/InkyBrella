@@ -7,7 +7,7 @@ I enjoy using technology to solve real-world problems,and I am also continuously
 
 ## About Me
 
-- 🌱 Learning: [Rust, Kotlin, ArkST]
+- 🌱 Learning: [Rust, Kotlin, ArkTS]
 - 🔭 Projects in progress：[MemberWiki](https://github.com/pjh456/MemberWiki),[Pomodoro-Clock](https://github.com/InkyUmbrella/Pomodoro-Clock)
 - 💻 Major Technology Stack：[Python, C++, FastAPI]
 - 🎯 Areas of Interest ：[AI, Computer Vision, Android Development, HarmonyOS Development]
