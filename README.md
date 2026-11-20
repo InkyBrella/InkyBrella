@@ -1,4 +1,4 @@
-# 👋Hello! My name is InkyUmbrella :umbrella:
+# 👋Hello! My name is InkyBrella :umbrella:
 
 I'm a Big Data Technology student in [Ocean University of China (中国海洋大学,OUC)](https://en.wikipedia.org/wiki/Ocean_University_of_China) 🎓,a member of [IT Studio](https://wiki.itstudio.club/wiki/about/intro.html), which is a famous club of computer technology of OUC.
 
@@ -8,7 +8,7 @@ I enjoy using technology to solve real-world problems,and I am also continuously
 ## About Me
 
 - 🌱 Learning: [Rust, Kotlin, ArkTS]
-- 🔭 Projects in progress：[MemberWiki](https://github.com/pjh456/MemberWiki),[Pomodoro-Clock](https://github.com/InkyUmbrella/Pomodoro-Clock)
+- 🔭 Projects in progress：[MemberWiki](https://github.com/pjh456/MemberWiki),[Pomodoro-Clock](https://github.com/InkyBrella/Pomodoro-Clock)
 - 💻 Major Technology Stack：[Python, C++, FastAPI]
 - 🎯 Areas of Interest ：[AI, Computer Vision, Android Development, HarmonyOS Development]
 
@@ -23,10 +23,10 @@ Tools：        [Git / Docker]
 
 
 ## Contact Information
-- 🌏GitHub: [@InkyUmbrella](https://github.com/InkyUmbrella)
+- 🌏GitHub: [@InkyBrella](https://github.com/InkyBrella)
 - 📫Outlook: sinister_heart@outlook.com
 - 📫Gmail: inkyumbrella123@gmail.com
-- 📺Bilibili: [@墨伞InkyUmbrella](https://space.bilibili.com/221091602)
+- 📺Bilibili: [@墨伞InkyBrella](https://space.bilibili.com/221091602)
 - 🐧QQ: 3073252427
 
 <div align="center">
